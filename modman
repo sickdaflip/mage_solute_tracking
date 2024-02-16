@@ -1,0 +1,6 @@
+app/code/local/Solute/Tracking  app/code/local/Solute/Tracking
+app/design/frontend/base/default/layout/solute_tracking.xml app/design/frontend/base/default/layout/solute_tracking.xml
+app/design/frontend/base/default/template/solute_tracking   app/design/frontend/base/default/template/solute_tracking
+app/etc/modules/Solute_Tracking.xml app/etc/modules/Solute_Tracking.xml
+app/locale/en_US/Solute_Tracking.csv    app/locale/en_US/Solute_Tracking.csv
+app/locale/de_DE/Solute_Tracking.csv    app/locale/de_DE/Solute_Tracking.csv
