@@ -95,7 +95,7 @@ class Solute_Tracking_Block_Frontend_Checkout_Success_Tracking extends Mage_Core
      */
     public function getOrderTotal()
     {
-        return $this->formatNumberForGoogle( $this->order->getGrandTotal() );
+        return $this->formatNumberForGoogle( $this->order->getSubtotal() );
     }
 
     /**
